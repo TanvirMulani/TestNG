@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-23T22:00:49 PDT" name="Suite" finished-at="2022-08-23T22:01:25 PDT" duration-ms="36793">
+    <groups>
+    </groups>
+    <test started-at="2022-08-23T22:00:49 PDT" name="Test" finished-at="2022-08-23T22:01:25 PDT" duration-ms="36793">
+      <class name="com.qc.tests.RegisterTest">
+        <test-method is-config="true" signature="dosetup()[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:00:38 PDT" name="dosetup" finished-at="2022-08-23T22:00:46 PDT" duration-ms="7494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dosetup -->
+        <test-method is-config="true" signature="xpath()[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:09 PDT" name="xpath" finished-at="2022-08-23T22:01:10 PDT" duration-ms="649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xpath -->
+        <test-method signature="doRegister(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:10 PDT" name="doRegister" data-provider="registerdata" finished-at="2022-08-23T22:01:10 PDT" duration-ms="368" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[All fields are empty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRegister -->
+        <test-method is-config="true" signature="doAssert()[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:10 PDT" name="doAssert" finished-at="2022-08-23T22:01:12 PDT" duration-ms="2008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAssert -->
+        <test-method is-config="true" signature="xpath()[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:12 PDT" name="xpath" finished-at="2022-08-23T22:01:12 PDT" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xpath -->
+        <test-method signature="doRegister(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:12 PDT" name="doRegister" data-provider="registerdata" finished-at="2022-08-23T22:01:13 PDT" duration-ms="391" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name is empty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9145425494]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[stanajib3112@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRegister -->
+        <test-method is-config="true" signature="doAssert()[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:13 PDT" name="doAssert" finished-at="2022-08-23T22:01:15 PDT" duration-ms="2009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAssert -->
+        <test-method is-config="true" signature="xpath()[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:15 PDT" name="xpath" finished-at="2022-08-23T22:01:15 PDT" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xpath -->
+        <test-method signature="doRegister(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:15 PDT" name="doRegister" data-provider="registerdata" finished-at="2022-08-23T22:01:15 PDT" duration-ms="376" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile no is empty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Queue Codes]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[stanajib3112@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRegister -->
+        <test-method is-config="true" signature="doAssert()[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:15 PDT" name="doAssert" finished-at="2022-08-23T22:01:17 PDT" duration-ms="2018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAssert -->
+        <test-method is-config="true" signature="xpath()[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:17 PDT" name="xpath" finished-at="2022-08-23T22:01:18 PDT" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xpath -->
+        <test-method signature="doRegister(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:18 PDT" name="doRegister" data-provider="registerdata" finished-at="2022-08-23T22:01:18 PDT" duration-ms="427" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Email is empty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Queue Codes]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9145425494]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRegister -->
+        <test-method is-config="true" signature="doAssert()[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:18 PDT" name="doAssert" finished-at="2022-08-23T22:01:20 PDT" duration-ms="2005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAssert -->
+        <test-method is-config="true" signature="xpath()[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:20 PDT" name="xpath" finished-at="2022-08-23T22:01:20 PDT" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xpath -->
+        <test-method signature="doRegister(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:20 PDT" name="doRegister" data-provider="registerdata" finished-at="2022-08-23T22:01:21 PDT" duration-ms="434" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Password is empty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Queue Codes]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9145425494]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[stanajib3112@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRegister -->
+        <test-method is-config="true" signature="doAssert()[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:21 PDT" name="doAssert" finished-at="2022-08-23T22:01:23 PDT" duration-ms="2003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAssert -->
+        <test-method is-config="true" signature="xpath()[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:23 PDT" name="xpath" finished-at="2022-08-23T22:01:23 PDT" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xpath -->
+        <test-method signature="doRegister(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:23 PDT" name="doRegister" data-provider="registerdata" finished-at="2022-08-23T22:01:23 PDT" duration-ms="398" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[all fields are valid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Queue Codes]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9145425494]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[stanajib3112@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRegister -->
+        <test-method is-config="true" signature="doAssert()[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:23 PDT" name="doAssert" finished-at="2022-08-23T22:01:25 PDT" duration-ms="2063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAssert -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qc.tests.RegisterTest@53941c2f]" started-at="2022-08-23T22:01:26 PDT" name="teardown" finished-at="2022-08-23T22:01:27 PDT" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qc.tests.RegisterTest -->
+      <class name="com.qc.tests.Testlogin">
+        <test-method is-config="true" signature="dosetup()[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:00:46 PDT" name="dosetup" finished-at="2022-08-23T22:00:49 PDT" duration-ms="3077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dosetup -->
+        <test-method is-config="true" signature="locator()[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:00:49 PDT" name="locator" finished-at="2022-08-23T22:00:50 PDT" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locator -->
+        <test-method signature="dologin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:00:50 PDT" name="dologin" data-provider="logindata" finished-at="2022-08-23T22:00:50 PDT" duration-ms="253" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Both are empty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologin -->
+        <test-method is-config="true" signature="verifyresult()[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:00:50 PDT" name="verifyresult" finished-at="2022-08-23T22:00:52 PDT" duration-ms="2158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyresult -->
+        <test-method is-config="true" signature="locator()[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:00:52 PDT" name="locator" finished-at="2022-08-23T22:00:52 PDT" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locator -->
+        <test-method signature="dologin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:00:52 PDT" name="dologin" data-provider="logindata" finished-at="2022-08-23T22:00:52 PDT" duration-ms="192" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Email is empty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologin -->
+        <test-method is-config="true" signature="verifyresult()[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:00:52 PDT" name="verifyresult" finished-at="2022-08-23T22:00:54 PDT" duration-ms="2024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyresult -->
+        <test-method is-config="true" signature="locator()[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:00:54 PDT" name="locator" finished-at="2022-08-23T22:00:55 PDT" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locator -->
+        <test-method signature="dologin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:00:55 PDT" name="dologin" data-provider="logindata" finished-at="2022-08-23T22:00:55 PDT" duration-ms="257" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Password is empty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[queuecodes@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologin -->
+        <test-method is-config="true" signature="verifyresult()[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:00:55 PDT" name="verifyresult" finished-at="2022-08-23T22:00:57 PDT" duration-ms="2021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyresult -->
+        <test-method is-config="true" signature="locator()[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:00:57 PDT" name="locator" finished-at="2022-08-23T22:00:57 PDT" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locator -->
+        <test-method signature="dologin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:00:57 PDT" name="dologin" data-provider="logindata" finished-at="2022-08-23T22:00:57 PDT" duration-ms="241" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Both are invalid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[queuecodes@gmail.]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234578]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologin -->
+        <test-method is-config="true" signature="verifyresult()[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:00:57 PDT" name="verifyresult" finished-at="2022-08-23T22:00:59 PDT" duration-ms="2023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyresult -->
+        <test-method is-config="true" signature="locator()[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:00:59 PDT" name="locator" finished-at="2022-08-23T22:00:59 PDT" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locator -->
+        <test-method signature="dologin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:00:59 PDT" name="dologin" data-provider="logindata" finished-at="2022-08-23T22:01:00 PDT" duration-ms="237" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Email is invalid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[queuecodes@gmail.]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologin -->
+        <test-method is-config="true" signature="verifyresult()[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:01:00 PDT" name="verifyresult" finished-at="2022-08-23T22:01:02 PDT" duration-ms="2008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyresult -->
+        <test-method is-config="true" signature="locator()[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:01:02 PDT" name="locator" finished-at="2022-08-23T22:01:02 PDT" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locator -->
+        <test-method signature="dologin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:01:02 PDT" name="dologin" data-provider="logindata" finished-at="2022-08-23T22:01:02 PDT" duration-ms="236" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Password is invalid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[queuecodes@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologin -->
+        <test-method is-config="true" signature="verifyresult()[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:01:02 PDT" name="verifyresult" finished-at="2022-08-23T22:01:04 PDT" duration-ms="2011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyresult -->
+        <test-method is-config="true" signature="locator()[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:01:04 PDT" name="locator" finished-at="2022-08-23T22:01:04 PDT" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locator -->
+        <test-method signature="dologin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:01:04 PDT" name="dologin" data-provider="logindata" finished-at="2022-08-23T22:01:07 PDT" duration-ms="2595" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Both are Valid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[queuecodes@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologin -->
+        <test-method is-config="true" signature="verifyresult()[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:01:07 PDT" name="verifyresult" finished-at="2022-08-23T22:01:09 PDT" duration-ms="2272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyresult -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qc.tests.Testlogin@55493582]" started-at="2022-08-23T22:01:27 PDT" name="teardown" finished-at="2022-08-23T22:01:27 PDT" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qc.tests.Testlogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
